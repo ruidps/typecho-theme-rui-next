@@ -1,4 +1,4 @@
-<?phpif (!defined('__TYPECHO_ROOT_DIR__')) exit;?>
+<?php if(!defined('__TYPECHO_ROOT_DIR__')) exit;?>
 <div class="content-wrap"> 
       <div id="content" class="content"> 
        <div class="post-block archive"> 
