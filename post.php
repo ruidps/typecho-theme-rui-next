@@ -3,7 +3,7 @@
  * Post页面
  */
 ?>
-<?phpif (!defined('__TYPECHO_ROOT_DIR__')) exit;?>
+<?php if (!defined('__TYPECHO_ROOT_DIR__')) exit;?>
 <!DOCTYPE html>
 <html class="theme-next pisces use-motion" lang="zh-CN">
 <?php $this->need('inc/post/head.php'); ?>

@@ -1,4 +1,4 @@
-<?phpif (!defined('__TYPECHO_ROOT_DIR__')) exit;?>
+<?php if (!defined('__TYPECHO_ROOT_DIR__')) exit;?>
 <?php Typecho_Widget::widget('Widget_Stat')->to($stat);?>
 
 
