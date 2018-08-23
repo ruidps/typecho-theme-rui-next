@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<?php if (!defined('__TYPECHO_ROOT_DIR__')) exit;?>
-=======
 <?php if(!defined('__TYPECHO_ROOT_DIR__')) exit;?>
 >>>>>>> 26aa803e9d53755bb1f6472fc40561c1828b138c
 <div class="content-wrap"> 
